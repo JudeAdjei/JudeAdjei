@@ -5,14 +5,14 @@ MSc Financial Technology and Business Analytics, University of Chester · Englan
 
 I solve problems with data: uncovering the answers hidden in it and communicating them clearly to stakeholders.
 
-[View my portfolio](https://claude.ai/artifact/2aT9kvKgQGaBd5brDwqsZ3) · [LinkedIn](https://www.linkedin.com/in/judeadjei/) · adjeijude24@gmail.com
+[View my portfolio](https://judeadjei.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/judeadjei/) · adjeijude24@gmail.com
 
 ## Featured projects
 | Project | What it shows | Tools |
 |---|---|---|
-| [UK credit card borrowing analysis](https://github.com/J2ju/uk-credit-card-borrowing-analysis) | 26 years of Bank of England and ONS data; regression with Newey–West errors, stationarity, structural-break and robustness tests | Python, pandas, statsmodels |
-| [Apple stock forecasting](https://github.com/J2ju/apple-stock-forecasting-arima-garch) | ARIMA price forecasting and GARCH volatility modelling (group project) | R, forecast, rugarch |
-| [Portfolio website](https://github.com/J2ju/portfolio) | Interactive data portfolio with live charts | React, TypeScript, Recharts |
+| [UK credit card borrowing analysis](https://github.com/JudeAdjei/uk-credit-card-borrowing-analysis) | 26 years of Bank of England and ONS data; regression with Newey–West errors, stationarity, structural-break and robustness tests | Python, pandas, statsmodels |
+| [Apple stock forecasting](https://github.com/JudeAdjei/apple-stock-forecasting-arima-garch) | ARIMA price forecasting and GARCH volatility modelling (group project) | R, forecast, rugarch |
+| [Portfolio website](https://github.com/JudeAdjei/portfolio) | Interactive data portfolio with live charts | React, TypeScript, Recharts |
 
 ## Toolkit
 Python · R · SQL · Excel · pandas · statsmodels · time-series forecasting · Monte Carlo simulation · data visualisation
